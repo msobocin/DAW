@@ -4,3 +4,6 @@
 [submodule "PHP"]
 	path = PHP
 	url = https://github.com/msobocin/DAW
+[submodule "JS"]
+	path = JS
+	url = https://github.com/msobocin/DAW
