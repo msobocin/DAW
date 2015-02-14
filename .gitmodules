@@ -1,6 +1,6 @@
 [submodule "Java"]
 	path = Java
-	url = https://github.com/msobocin/DAW
+	url = https://github.com/msobocin/Java
 [submodule "PHP"]
 	path = PHP
 	url = https://github.com/msobocin/DAW
